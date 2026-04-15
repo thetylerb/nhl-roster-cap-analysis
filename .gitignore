@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw API cache
+data/raw/
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
